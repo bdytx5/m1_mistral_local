@@ -1,0 +1,3 @@
+FROM mistral:latest
+
+ADAPTER /Users/brettyoung/Desktop/IMPORTANT/mistral-7b-alpacapython10kCheckpoints/checkpoint-150/ggml-adapter-model.bin
